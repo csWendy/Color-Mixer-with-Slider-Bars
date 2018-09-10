@@ -1,6 +1,6 @@
 # Color-Mixer-with-Slider-Bars (According to project discription by Professor Xiang)
 
-A interactive Color Mixer with 3 Slide Bars: Red, Green and Blue. User can set color for the square and rectangle windows.
+An interactive Color Mixer with 3 Slide Bars: Red, Green and Blue. User can set color for the square and rectangle windows.
 
 User can slide any slide bar to get Red, Green or Blue in the pixel range from 0 to 255. The squre window will show the mixed color which User set.
 
